@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-qmfglc.saturadar88win.cfd/sitemap.xml
